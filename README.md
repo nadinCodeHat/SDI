@@ -15,7 +15,7 @@ Instructions:
 2.Right click and select "Git Bash Here".  
 3.Type "git clone https://github.com/CSWanigasooriya/SDI.git".  
 4.The repository willl be cloned after a while to the location where you selected. Open the folder.   
-5.Type "git branch -a" to view all branches that I've created.  
+5.Type "git branch -a" to view all branches that I've created. For instance if "remotes/origin/chamath" shows up your branch name would be "chamath".  
 6.Type "git switch (your branch name)" to switch to your respective branch.  
 7.Do whatever the changes you want.  
 8.Type "git status" to view all changes that you've done.  
