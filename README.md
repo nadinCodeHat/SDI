@@ -2,6 +2,12 @@
 
 I created branches to each of you. Please make sure to push your work to your respective branches.
 
+Prerequisites:
+
+1.Install Git ( https://git-scm.com/downloads ).  
+2.Install Java JDK and Netbeans (or any preferred IDE that supports Java development).  
+3.Install PyCharm (or any preferred IDE that supports Python development).  
+4.Install CodeBlocks (with MinGW compiler) (https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe/download).  
 
 Instructions:
 
