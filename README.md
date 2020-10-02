@@ -14,7 +14,7 @@ Instructions:
 1.Go to the folder where you want the project to be saved. e.g: "C:/Projects".  
 2.Right click and select "Git Bash Here".  
 3.Type "git clone https://github.com/CSWanigasooriya/SDI.git".  
-4.The repository willl be cloned after a while to the location where you selected.  
+4.The repository willl be cloned after a while to the location where you selected. Open the folder.   
 5.Type "git branch -a" to view all branches that I've created.  
 6.Type "git switch (your branch name)" to switch to your respective branch.  
 7.Do whatever the changes you want.  
