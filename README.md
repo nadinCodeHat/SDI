@@ -16,11 +16,11 @@ Instructions:
 3.Type "git clone https://github.com/CSWanigasooriya/SDI.git".  
 4.The repository willl be cloned after a while to the location where you selected.  
 5.Type "git branch -a" to view all branches that I've created.  
-5.Type "git switch (your branch name)" to switch to your respective branch.  
-6.Do whatever the changes you want.  
-7.Type "git status" to view all changes that you've done.  
-8.Type "git add .", this adds all the changes to the staging area.  
-9.Type "git commit -m "(Add a meaning full commit here)"". For example if you added a file: "git commit -m "Addded file Text.txt"".  
-10.Then finally "git push -u origin (your branch name)".Again for instance if your branch name is "chamath": "git push -u origin chamath". 
+6.Type "git switch (your branch name)" to switch to your respective branch.  
+7.Do whatever the changes you want.  
+8.Type "git status" to view all changes that you've done.  
+9.Type "git add .", this adds all the changes to the staging area.  
+10.Type "git commit -m "(Add a meaning full commit here)"". For example if you added a file: "git commit -m "Addded file Text.txt"".  
+11.Then finally "git push -u origin (your branch name)".Again for instance if your branch name is "chamath": "git push -u origin chamath". 
 
 Contact me if any inqueries.
