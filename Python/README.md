@@ -2,10 +2,6 @@ Setup in PyCharm:
 
 File -> Project -> Add scipy and matplotlib to packages.
 
-Installation : SciPy
+Installation : pip install scipy
 
-pip install scipy
-
-Installation : Matplotlib
-
-pip install matplotlib
+Installation : pip install matplotlib
