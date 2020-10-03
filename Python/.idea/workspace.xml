@@ -2295,6 +2295,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
 =======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
@@ -2303,6 +2304,9 @@
 =======
       <change beforePath="$PROJECT_DIR$/normal_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal_distribution.py" afterDir="false" />
 >>>>>>> 2654ded52f9a300ae66621d4d56e8a2f61c509fd
+=======
+      <change beforePath="$PROJECT_DIR$/normal_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal_distribution.py" afterDir="false" />
+>>>>>>> e0d4f7327b1a397d3283dd24691b6d21d73f0490
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2346,6 +2350,7 @@
   </component>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.binomial_distribution">
 =======
   <component name="RunManager" selected="Python.poisson_distribution">
@@ -2353,6 +2358,9 @@
 =======
   <component name="RunManager" selected="Python.normal_distribution">
 >>>>>>> 2654ded52f9a300ae66621d4d56e8a2f61c509fd
+=======
+  <component name="RunManager" selected="Python.normal_distribution">
+>>>>>>> e0d4f7327b1a397d3283dd24691b6d21d73f0490
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2458,10 +2466,14 @@
       <list>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
         <item itemvalue="Python.normal_distribution" />
 >>>>>>> 2654ded52f9a300ae66621d4d56e8a2f61c509fd
+=======
+        <item itemvalue="Python.normal_distribution" />
+>>>>>>> e0d4f7327b1a397d3283dd24691b6d21d73f0490
         <item itemvalue="Python.poisson_distribution" />
 >>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
         <item itemvalue="Python.binomial_distribution (1)" />
