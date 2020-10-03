@@ -9,5 +9,5 @@ k = int(input("Input k or x value: "))
 
 data_poisson = (random.poisson(mu, k))
 ax = sns.distplot(data_poisson, kde=False)
-
+print(data_poisson)
 plt.show()
