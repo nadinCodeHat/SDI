@@ -21,6 +21,7 @@ Instructions:
 8.Type "git status" to view all changes that you've done.  
 9.Type "git add .", this adds all the changes to the staging area.  
 10.Type "git commit -m "(Add a meaning full commit here)"". For example if you added a file: "git commit -m "Addded file Text.txt"".  
-11.Then finally "git push -u origin (your branch name)".Again for instance if your branch name is "chamath": "git push -u origin chamath". 
+11.Then finally "git push -u origin (your branch name)".Again for instance if your branch name is "chamath": "git push -u origin chamath".
+12.Make sure to do a "git pull" once you switch into another branch to get updated.  
 
 Contact me if any inqueries.
