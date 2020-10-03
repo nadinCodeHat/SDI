@@ -33,7 +33,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="nadinCodeHat" />
+        <option value="nadin" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="JupyterTrust" id="0418d88d-44ee-4024-a5e2-42a1647de374" />
   <component name="ProjectId" id="1iK7eg6Zu25RgZR9Lb61zZN53Vv" />
@@ -150,12 +157,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601644526866</updated>
-      <workItem from="1601699317099" duration="4065000" />
+      <workItem from="1601699317099" duration="4531000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -170,32 +180,43 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added binomial_distribution.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added binomial_distribution.py" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601702811855">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1601702811855" />
-    <state width="1323" height="143" key="GridCell.Tab.0.bottom" timestamp="1601703184877">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601703757405">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601703184877" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601703757405" />
+    <state width="661" height="143" key="GridCell.Tab.0.bottom" timestamp="1601703773894">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="661" height="143" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601703773894" />
     <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="1323" height="143" key="GridCell.Tab.0.center" timestamp="1601703184877">
+    <state width="661" height="143" key="GridCell.Tab.0.center" timestamp="1601703773894">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601703184877" />
+    <state width="661" height="143" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601703773894" />
     <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="1323" height="143" key="GridCell.Tab.0.left" timestamp="1601703184877">
+    <state width="661" height="143" key="GridCell.Tab.0.left" timestamp="1601703773893">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601703184877" />
+    <state width="661" height="143" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601703773893" />
     <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="1323" height="143" key="GridCell.Tab.0.right" timestamp="1601703184877">
+    <state width="661" height="143" key="GridCell.Tab.0.right" timestamp="1601703773894">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601703184877" />
+    <state width="661" height="143" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601703773894" />
     <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
     <state x="184" y="28" key="SettingsEditor" timestamp="1601700994172">
       <screen x="0" y="0" width="1366" height="768" />
@@ -205,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601699366708" />
-    <state x="500" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601702240784">
+    <state x="500" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601703636001">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="500" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1601702240784" />
+    <state x="500" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1601703636001" />
     <state x="346" y="89" key="search.everywhere.popup" timestamp="1601699578360">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
