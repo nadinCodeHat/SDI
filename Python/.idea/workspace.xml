@@ -2297,8 +2297,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/poisson_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/poisson_distribution.py" afterDir="false" />
 >>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
+=======
+      <change beforePath="$PROJECT_DIR$/normal_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal_distribution.py" afterDir="false" />
+>>>>>>> 2654ded52f9a300ae66621d4d56e8a2f61c509fd
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2341,10 +2345,14 @@
     <property name="settings.editor.splitter.proportion" value="0.35263702" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.binomial_distribution">
 =======
   <component name="RunManager" selected="Python.poisson_distribution">
 >>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
+=======
+  <component name="RunManager" selected="Python.normal_distribution">
+>>>>>>> 2654ded52f9a300ae66621d4d56e8a2f61c509fd
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2449,11 +2457,14 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+        <item itemvalue="Python.normal_distribution" />
+>>>>>>> 2654ded52f9a300ae66621d4d56e8a2f61c509fd
         <item itemvalue="Python.poisson_distribution" />
 >>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
         <item itemvalue="Python.binomial_distribution (1)" />
-        <item itemvalue="Python.normal_distribution" />
       </list>
     </recent_temporary>
   </component>
@@ -2465,7 +2476,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601644526866</updated>
-      <workItem from="1601699317099" duration="9758000" />
+      <workItem from="1601699317099" duration="10588000" />
     </task>
     <servers />
   </component>
