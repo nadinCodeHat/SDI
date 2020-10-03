@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b72d2fe3-3711-4b65-a7fe-809021a85079" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poisson_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/poisson_distribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal_distribution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.poisson_distribution">
+  <component name="RunManager" selected="Python.normal_distribution">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,9 +166,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.normal_distribution" />
         <item itemvalue="Python.poisson_distribution" />
         <item itemvalue="Python.binomial_distribution (1)" />
-        <item itemvalue="Python.normal_distribution" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601644526866</updated>
-      <workItem from="1601699317099" duration="9758000" />
+      <workItem from="1601699317099" duration="10588000" />
     </task>
     <servers />
   </component>
