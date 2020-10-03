@@ -45,6 +45,7 @@ int main()
         cout<<"Select a distribution you want approximate"<<endl;
         cout<<"     1 - Binomial"<<endl;
         cout<<"     2 - Poisson"<<endl;
+        cout<<"Selection: ";
         cin>>dist;
 
         switch(dist)
@@ -54,6 +55,7 @@ int main()
             cin>>n;
             cout<<"Enter success probability (p): ";
             cin>>p;
+            cout<<endl;
             break;
 
         case 2:
