@@ -52,11 +52,11 @@ int main()
         case 1:
             cout<<"Enter sample size (n): ";
             cin>>n;
+            cout<<"Enter success probability (p): ";
+            cin>>p;
             break;
 
         case 2:
-            cout<<"Enter success probability (p): ";
-            cin>>p;
             break;
         }
     }
