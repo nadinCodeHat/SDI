@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72d2fe3-3711-4b65-a7fe-809021a85079" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binomial_distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normal_distribution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binomial_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/binomial_distribution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.binomial_distribution">
+  <component name="RunManager" selected="Python.normal_distribution">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,8 +141,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binomial_distribution (1)" />
         <item itemvalue="Python.normal_distribution" />
+        <item itemvalue="Python.binomial_distribution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601644526866</updated>
-      <workItem from="1601699317099" duration="4531000" />
+      <workItem from="1601699317099" duration="7135000" />
     </task>
     <servers />
   </component>
@@ -198,25 +195,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601703757405" />
-    <state width="661" height="143" key="GridCell.Tab.0.bottom" timestamp="1601703773894">
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom" timestamp="1601706119528">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="143" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601703773894" />
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
     <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="661" height="143" key="GridCell.Tab.0.center" timestamp="1601703773894">
+    <state width="1323" height="143" key="GridCell.Tab.0.center" timestamp="1601706119528">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="143" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601703773894" />
+    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
     <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="661" height="143" key="GridCell.Tab.0.left" timestamp="1601703773893">
+    <state width="1323" height="143" key="GridCell.Tab.0.left" timestamp="1601706119528">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="143" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601703773893" />
+    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
     <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="661" height="143" key="GridCell.Tab.0.right" timestamp="1601703773894">
+    <state width="1323" height="143" key="GridCell.Tab.0.right" timestamp="1601706119528">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="143" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601703773894" />
+    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
     <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
     <state x="184" y="28" key="SettingsEditor" timestamp="1601700994172">
       <screen x="0" y="0" width="1366" height="768" />
@@ -236,6 +233,6 @@
     <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1601699578360" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="binomial_distribution Coverage Results" MODIFIED="1601703184861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="binomial_distribution Coverage Results" MODIFIED="1601706119520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
