@@ -5,6 +5,10 @@ from scipy.stats import binom
 n = int(input("Input the number of trials: "))
 # p is the probability of success
 p = float(input("Input the success probability: "))
+# While probabilities should be <= to 1
+while p > 1:
+    print("p value should be <= 1")
+    p = float(input("Input the success probability: "))
 # defining the list of r values
 r_values = list(range(n + 1))
 # mean and variance
