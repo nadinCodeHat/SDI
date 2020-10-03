@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72d2fe3-3711-4b65-a7fe-809021a85079" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BdfFontFile.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
@@ -2294,11 +2295,22 @@
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poisson_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/poisson_distribution.py" afterDir="false" />
+>>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -2328,7 +2340,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.35263702" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.binomial_distribution">
+=======
+  <component name="RunManager" selected="Python.poisson_distribution">
+>>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2411,8 +2427,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="poisson_distribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poisson_distribution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+=======
+        <item itemvalue="Python.poisson_distribution" />
+>>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
         <item itemvalue="Python.binomial_distribution (1)" />
         <item itemvalue="Python.normal_distribution" />
       </list>
@@ -2426,7 +2465,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601644526866</updated>
-      <workItem from="1601699317099" duration="7135000" />
+      <workItem from="1601699317099" duration="9758000" />
     </task>
     <servers />
   </component>
@@ -2467,31 +2506,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601703757405" />
-    <state width="1323" height="143" key="GridCell.Tab.0.bottom" timestamp="1601706119528">
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1601709236826">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601709236826" />
     <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="1323" height="143" key="GridCell.Tab.0.center" timestamp="1601706119528">
+    <state width="1323" height="188" key="GridCell.Tab.0.center" timestamp="1601709236826">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
+    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601709236826" />
     <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="1323" height="143" key="GridCell.Tab.0.left" timestamp="1601706119528">
+    <state width="1323" height="188" key="GridCell.Tab.0.left" timestamp="1601709236826">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
+    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601709236826" />
     <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
-    <state width="1323" height="143" key="GridCell.Tab.0.right" timestamp="1601706119528">
+    <state width="1323" height="188" key="GridCell.Tab.0.right" timestamp="1601709236826">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601706119528" />
+    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601709236826" />
     <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601644598194" />
+<<<<<<< HEAD
     <state x="226" y="72" key="SettingsEditor" timestamp="1601709711255">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601700994172" />
     <state x="226" y="72" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601709711255" />
+=======
+    <state x="184" y="28" key="SettingsEditor" timestamp="1601708995522">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601708995522" />
+>>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
     <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601699366708">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -2505,4 +2551,10 @@
     </state>
     <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1601699578360" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="binomial_distribution Coverage Results" MODIFIED="1601708670473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+>>>>>>> 4b1f7662060caff7b0016f790647b8d0c5479bce
 </project>
